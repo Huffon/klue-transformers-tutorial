@@ -139,3 +139,5 @@ cython_debug/
 
 # transformers
 runs/
+test-*/
+output/
