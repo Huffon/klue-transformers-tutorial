@@ -1,6 +1,12 @@
 # KLUE + Transformers 튜토리얼 🤗
 
-본 저장소는 Transformers, Sentence Transformers 등의 라이브러리를 활용해 태스크를 수행하기 위한 자연어 처리 모델을 손 쉽게 훈련할 수 있는 방법에 대한 예제 노트북들을 다룹니다. 각 라이브러리가 빠른 기술의 발전으로 차후 활용법이 변할 수 있으므로, 각 라이브러리의 버전을 아래와 같이 고정시킨 채 실험 및 학습을 해주시는 것이 좋습니다.
+본 저장소는 [Transformers](https://github.com/huggingface/transformers), [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) 등의 라이브러리를 활용해 태스크를 수행하기 위한 자연어 처리 모델을 손 쉽게 훈련할 수 있는 방법에 대한 예제 노트북들을 다룹니다.
+
+각 라이브러리가 빠른 기술의 발전으로 차후 활용법이 변할 수 있으므로, 각 라이브러리의 버전을 아래와 같이 고정시킨 채 실험 및 학습을 해주시는 것이 좋습니다.
+
+본 노트북 제작을 위해 학습된 모델은 모두 [허깅페이스 모델 허브](https://huggingface.co/Huffon)에 업로드해두었으니 사용하실 수 있습니다.
+
+<br>
 
 ```
 transformers==4.7.0
