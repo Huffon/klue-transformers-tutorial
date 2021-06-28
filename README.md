@@ -33,6 +33,6 @@ sentence-transformers==1.2.0
 ## 문의
 
 ```
-허 훈 (huffonism@gmail.com)
+허 훈 (huffonism at gmail dot com)
 ```
 
